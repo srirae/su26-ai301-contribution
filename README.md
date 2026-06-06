@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#187]: [Adding new STT models to the list]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** Sri Vamsi Rajesh  
+**Issue:** [ https://github.com/freestyle-voice/freestyle/issues/187 ]  
+**Status:** [Phase I] [Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I have been contributing to this repo from week 1 making small UI changes and fixing bugs. I wanted to expand the reach of the project to other parts of the globe, so my plan was to add new language models.
 
 ---
 
